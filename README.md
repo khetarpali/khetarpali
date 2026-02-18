@@ -1,6 +1,6 @@
 ## Ishan Khetarpal (personal)
 
-This is my personal GitHub account. 
+This is my personal GitHub account not related to Montgomery County Public Schools or Montgomery County Fire and Rescue. 
 
 <!--
 **khetarpali/khetarpali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
